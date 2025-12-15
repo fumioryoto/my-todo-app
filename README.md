@@ -88,7 +88,7 @@ This app may later be extended into a **security testing or pentesting practice 
 > *(Add screenshots here)*
 
 ```md
-![App Screenshot](./screenshots/todo.png)
+![App Screenshot](./dashboard.png)
 ```
 
 ---
