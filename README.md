@@ -85,11 +85,10 @@ This app may later be extended into a **security testing or pentesting practice 
 
 ## 📸 Screenshots
 
-> *(Add screenshots here)*
+<p align="center">
+  <img src="https://github.com/fumioryoto/my-todo-app/raw/main/dashboard.png" alt="Dashboard" width="700">
+</p>
 
-```md
-![App Screenshot](./dashboard.png)
-```
 
 ---
 
