@@ -114,6 +114,7 @@ Cybersecurity & Frontend Learner
 ## 📄 License
 
 This project is open-source and available under the **MIT License**.
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
