@@ -42,7 +42,7 @@ my-todo-app/
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
-
+* Ocnfigure the bat file as your own machine path.
 * Node.js (v16 or later recommended)
 * npm
 
